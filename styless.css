@@ -1,0 +1,97 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+   text-decoration: none;
+    
+}
+
+body{
+
+    background-image: url(Entertainmentlogo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+ .container{
+     height: 350px;
+    padding: 50px;
+    background-color: #00c0ff98;
+    border-bottom: 5px solid orange;
+    border-radius: 0px 0px 120px 120px; 
+    }
+.container h1{
+    color: white;
+    font-variant: small-caps;
+    font-size: 70px;
+    text-align: center ;
+}
+.container h1 span{
+    color: Orange;
+}
+.container p{
+    color: white;
+    font-variant: small-caps;
+    font-size: 27px;
+    text-align: center ;
+     }
+     
+.Row { 
+white-space: nowrap;
+ }
+ .Row div { 
+ width: 40px; 
+ height: 40px; 
+ display: inline-block;
+ }
+ .Row img{
+     border-radius: 100px;
+     border: 6px solid orange ;
+     height: 40%;
+     width: 40%; 
+     margin: 50px;}
+     .Row2 { 
+white-space: nowrap;
+ }
+ .Row2 div { 
+ width: 400px; 
+ height: 100px; 
+ display: inline-block;
+ background-color: orange;
+ margin: 50px;
+ margin-top: -50px;
+ border-bottom: 10px solid white;}
+ .Row2 p{
+ text-align: center;
+ font-size: 40px;
+ font-weight: bold;
+ margin: 20px;
+ }
+  .Row3 img{
+     border-radius: 100px;
+     border: 6px solid orange ;
+     height: 40%;
+     width: 40%; 
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: center;
+ }
+ .Row4 div { 
+ width: 400px; 
+ height: 100px; 
+ display: inline-block;
+ background-color: orange;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: center;
+ border-bottom: 10px solid white;}
+ .Row4 p{
+ text-align: center;
+ font-size: 40px;
+ font-weight: bold;
+ margin: 50px;
+ }
