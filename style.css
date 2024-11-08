@@ -194,3 +194,15 @@ float: center;
   vertical-align: middle;
   margin-top: -15px;
 }
+.down-buttom {
+    display: flex;
+    position: sticky;
+    bottom: 0;
+    padding: 20px;
+    background-color: black;
+    text-align:center;
+    font-family: Georgia;
+    font-weight: 600;
+    font-size: 25px;
+    color: white;
+}
