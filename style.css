@@ -105,8 +105,8 @@ img{
   margin-left: auto;
   margin-right: auto;
   border-radius: 50px;
-  height: 50px;
-  width: 150px;
+  height: 35px;
+  width: 100px;
   float: center;
   text-align: center;
   font-size: 25px;
@@ -115,7 +115,7 @@ img{
 }
 .botton1 a{
      text-align: center;
-  font-size: 25px;
+  font-size: 15px;
   margin-top: -5px;
 }
 .botton1 a:hover{
@@ -181,7 +181,7 @@ float: center;
 }
 .botton2 a{
      text-align: center;
-  font-size: 25px;
+  font-size: 15px;
   margin-top: -2px;
 }
 .botton2 a:hover{
@@ -196,8 +196,8 @@ float: center;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50px;
-  height: 50px;
-  width: 150px;
+  height: 35px;
+  width: 100px;
   float: center;
   text-align: center;
   font-size: 25px;
