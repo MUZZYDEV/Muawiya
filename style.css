@@ -113,8 +113,7 @@ img{
     transition: 2s;
 }
 .container2{
-    height: 215px;
-    width: 800px; 
+    height: 215px; 
     padding: 50px;
     background-color: #00c0ff98;
     border-bottom: 5px solid orange;
@@ -145,7 +144,6 @@ float: center;
 }
 .container3{
     height: 230px;
-    width: 800px; 
     padding: 50px;
     background-color: #00c0ff98;
     border-bottom: 5px solid orange;
