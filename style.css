@@ -147,6 +147,17 @@ img{
     font-size: 13px;
     margin-top: 10px;    
 }
+.lisetting1{
+    background-color: orange;
+}
+.lisetting2{
+    background-color: blue;
+}
+.lisetting3{
+    background-color: red;
+}
+.lisetting4{
+    background-color: green;
  .aq b {
  color: red;
 float: center;
