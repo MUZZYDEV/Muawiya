@@ -99,24 +99,22 @@ img{
  
 }
 .botton1{
-  padding: 8px;
+  padding: 7px;
   background-color: red;
   display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50px;
-  height: 35px;
   width: 100px;
   float: center;
   text-align: center;
-  font-size: 25px;
   vertical-align: middle;
-  margin-top: -15px;
+  margin-top: 5px;
 }
-.botton1 a{
+.botton1 b{
      text-align: center;
   font-size: 15px;
-  margin-top: -5px;
+  margin-down: 70px;
 }
 .botton1 a:hover{
     color: orange;
