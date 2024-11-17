@@ -109,7 +109,7 @@ img{
   float: center;
   text-align: center;
   vertical-align: middle;
-  margin-top: 5px;
+  margin-top: -7px;
 }
 .botton1 b{
      text-align: center;
@@ -144,8 +144,8 @@ img{
     font-family: serif (red-serifs);
     font-weight: bold;
     text-align:center ;
-    font-size: 10px;
-    margin-top: 20px;    
+    font-size: 13px;
+    margin-top: 10px;    
 }
  .aq b {
  color: red;
