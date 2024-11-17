@@ -174,8 +174,8 @@ float: center;
     font-family: serif (red-serifs);
     font-weight: bold;
     text-align:center ;
-    font-size: 10px;
-    margin-top: 20px;
+    font-size: 13px;
+    margin-top: 10px;
 }
 .botton2 b{
      text-align: center;
@@ -204,11 +204,11 @@ float: center;
     display: flex;
     position: sticky;
     bottom: 0;
-    padding: 20px;
+    padding: 15px;
     background-color: black;
     text-align:center;
     font-family: Georgia;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 8px;
     color: white;
 }
