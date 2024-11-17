@@ -87,6 +87,17 @@ img{
   border-left: none;
  
 }
+.img2{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  border: 10px solid #e8491d;
+  border-top: none;
+  border-left: none;
+ 
+}
 .botton1{
   padding: 8px;
   background-color: red;
