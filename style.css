@@ -29,8 +29,7 @@ body{
     display: table;
 }
 .container_logo h1{
-    float: left;
-    margin-left: 5px ;
+    text-align: center;
     font-size: 25px ;
     font-family: serif (red-serifs);
     font-weight: bold;
@@ -43,7 +42,7 @@ body{
     color: orange;
 }
 .navbar{
-    float: right;
+    float: center;
     
     margin-top: -15px;
 } 
